@@ -1,5 +1,7 @@
 # GithubFinder
 
+Projeto feito para buscar usuários do github e mostrar algumas informações, como repositórios, reguidores, forks, etc..
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.2.
 
 ## Development server
